@@ -1,0 +1,15 @@
+<suite name="Weather API Tests">
+    <test name="Weather Test">
+        <classes>
+            <class name="tests.WeatherTest"/>
+        </classes>
+    </test>
+
+    <groups>
+        <run>
+            <include name="coldestState_US"/>
+            <include name="warmestCity_AU"/>
+        </run>
+    </groups>
+
+</suite>

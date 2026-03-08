@@ -1,0 +1,19 @@
+{
+  "cities": [
+    "Sydney",
+    "London",
+    "New York",
+    "Dubai",
+    "Paris"
+  ],
+  "cities_Australia": [
+    "Sydney",
+    "Melbourne",
+    "Brisbane",
+    "Perth",
+    "Adelaide",
+    "Hobart",
+    "Canberra",
+    "Darwin"
+  ]
+}
