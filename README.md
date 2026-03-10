@@ -42,10 +42,9 @@ This Repository contains RestAssured Java tesk to create automated API tests for
 
     Things can Improve
         1. Better folder structure
-        2. Reporting can be done in a separate folder/ file 
-        3. Adding BDD (cucumber) to the framework
-        4. Adding meaningful exceptions
-        5. Handling failure on reports
+        2. Reporting can be done in a separate folder/ file
+        3. Adding meaningful exceptions
+        4. Handling failure on reports
 
 
 
