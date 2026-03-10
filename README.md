@@ -26,9 +26,9 @@ Running a group
 This Repository contains RestAssured Java tesk to create automated API tests for a REST API that provides weather data
     
     **Tests Included:**
-        **1. Current weather data for a list of multiple major international cities**
-        **2. Identify the warmest capital city in Australia**
-        **3. Identify the Coldest US state**
+        1. Current weather data for a list of multiple major international cities**
+        2. Identify the warmest capital city in Australia**
+        3. Identify the Coldest US state**
 
 
     Project Contains 
